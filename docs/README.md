@@ -11,7 +11,7 @@
 - You can configure the tune; e.g. specifying "Key: D" means the key signature will be D major. Other configurations include
   - Key (default to C)
   - Meter (default to 4/4)
-  - Tempo (default to 180 8-th notes per minute)
+  - Tempo (default to 180 eighth notes per minute)
   - Swing (default to Straight; other options include light, medium and hard).
   - Part (used for naming the part)
   - Copy (specify the part you want to copy, and then type `-` in a cell to use the same chord as the original part).
