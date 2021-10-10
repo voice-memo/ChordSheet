@@ -1,12 +1,12 @@
 # How to use it
 
-- Install the add-on in Google Sheets. An black icon with a `#` symbol will show up on the right sidebar.
+- Install the add-on in Google Sheets. A black add-on icon with a `#` symbol will show up on the right sidebar.
 - Type chord symbols into the spreadsheet.
   - Each occupied cell represent 1 measure.
   - In addition to chords, you can type `_` to indicate spacing within the measure.
   - A cell with just `_` means that there are no chord changes in that measure.
 ![Screenshot](./ChordSheetPic.jpg)
-- Press the black `#` icon to open the add-on, which will format the chords and add a link to the backing track for the tune.
+- Press the black add-on icon to open the add-on, which will format the chords and add a link to the backing track for the tune.
   - You will need to press the "Format" button to refresh whenever there are new changes.
 - You can configure the tune; e.g. specifying "Key: D" means the key signature will be D major. Other configurations include
   - Key (default to C)
