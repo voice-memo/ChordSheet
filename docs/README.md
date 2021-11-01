@@ -1,6 +1,6 @@
 # How to use it
 
-- Install the add-on in Google Sheets. A black add-on icon with a `#` symbol will show up on the right sidebar.
+- Install the add-on in Google Sheets™. A black add-on icon with a `#` symbol will show up on the right sidebar.
 - Type chord symbols into the spreadsheet.
   - Each occupied cell represent 1 measure.
   - In addition to chords, you can type `_` to indicate spacing within the measure.
